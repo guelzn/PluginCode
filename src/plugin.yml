@@ -1,0 +1,5 @@
+name: PluginCode
+main: br.com.miguelrcha.plugincode.PluginCode
+version: 1.0-SNAPSHOT
+api-version: 1.19
+commands:

@@ -1,0 +1,4 @@
+name: PluginCode
+version: '${project.version}'
+main: br.com.miguelrcha.plugincode.PluginCode
+api-version: '1.19'
